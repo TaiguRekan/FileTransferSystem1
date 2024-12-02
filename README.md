@@ -41,7 +41,7 @@ Gradle реализован для создания пакета FileTransferSys
 - `GUI.java`: Клиентская часть с графическим интерфейсом для передачи файлов.
 - `AESCipher.java`, `DESCipher.java`: Классы для шифрования и дешифрования данных с использованием алгоритмов AES и DES.
 - `BaseCipher.java`: Абстрактный класс, предоставляющий базовую функциональность для шифрования.
-- `SignatureManager.java`, `SHA256Signature.java`: Классы для работы с цифровыми подписями.
+- `SignatureManager.java`, `SHA256Signature.java`, `SHA384Signature.java`: Классы для работы с цифровыми подписями.
 
 ## Как использовать
 
