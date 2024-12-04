@@ -8,7 +8,7 @@ StreamAPI реализован в FileTransferServer посредством IntS
 
 ## JavaDoc 
 
-JavaDoc реализовал для методов.
+JavaDoc реализован для методов.
 
 ## Gradle
 
